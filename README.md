@@ -1,25 +1,24 @@
 # Hi there and servus 👋
 I'm an [associacte professor](https://www.gla.ac.uk/schools/ges/staff/sebastianmutz/) at the University of Glasgow (Scotland) with research focus on climate and Earth system dynamics, climate change impacts, and the development of methods and tools for research and science communication. My research tools include process-based models (e.g., global climate models), empirical-statistical models, and techniques from AI. I currently serve as manager of [ExaGEO](https://www.exageo.org/) (NERC Doctoral Landscape Award in Exascale Computing for Earth, Environmental, and Sustainability Solutions), on the steering committee of the [ESM-AI forum](https://sages.ac.uk/research/fora/earth-system-modelling-artificial-intelligence-esm-ai/) of SAGES (Scottish Alliance for Geoscience, Environment and Society), on the [EGU OC](https://www.egu.eu/outreach/) (European Geosciences Union Outreach Committee), and as a topical editor for the journals Earth System Dynamics and Geoscience Communication.
 
-# Example Publications
-
-## Numerical Modelling (Climate and Earth System)
-- [Detection and Explanation of Spatiotemporal Patterns in Late Cenozoic Palaeoclimate Change Relevant to Earth Surface Processes (2019)](https://doi.org/10.5194/esurf-7-663-2019)
-- [West African Monsoon dynamics and its control on the stable oxygen isotopic composition of precipitation in the Late Cenozoic (2024)](https://doi.org/10.1029/2024JD040748)
-- [Amazonian paleoenvironments resulted from coupled geodynamic, paleoclimate and sea-level interactions (2023)](https://doi.org/10.1016/j.epsl.2023.118033)
-
-## Statistical and AI-based Modelling
-
-- [Empirical Glacier Mass-Balance Models for South America (2022)](https://doi.org/10.1017/jog.2022.6)
-- [pyESD: An open-source Python framework for empirical-statistical downscaling of climate information (2023)](https://doi.org/10.5194/gmd-16-6479-2023)
-- [Twenty-first Century Regional Temperature Response in Chile Based on Dynamical Empirical-Statistical Downscaling (2021)](https://doi.org/10.1007/s00382-020-05620-9)
-
 # Climate Dynamics Lab 🌀
 The [Climate Dynamics Lab](https://mutz.science/) is a small, international network of researchers clustered around specific research topics. It keeps an open-door policy to anyone working on these topics. If you have questions, comments, or would like to join us: get in touch!
 
 # ESM-AI (SAGES) 🌍
 The forum for Earth System Modelling & Artificial Intelligence ([ESM-AI](https://sages.ac.uk/research/fora/earth-system-modelling-artificial-intelligence-esm-ai/)) has the overarching aim to advance current understanding of the inner working of the Earth system, of its variations under climate change, and of the impacts this will bring about, using modelling and data-driven approaches. 
 
+# Example Publications
+
+### Numerical Modelling (Climate and Earth System)
+- [Detection and explanation of spatiotemporal patterns in palaeoclimate change](https://doi.org/10.5194/esurf-7-663-2019)
+- [West African Monsoon dynamics in the Late Cenozoic](https://doi.org/10.1029/2024JD040748)
+- [Amazonian paleoenvironmental reconstruction through coupled models](https://doi.org/10.1016/j.epsl.2023.118033)
+
+### Statistical and AI-based Modelling
+
+- [Empirical glacier mass-balance models for South America](https://doi.org/10.1017/jog.2022.6)
+- [pyESD: An open-source Python framework for empirical-statistical climate downscaling](https://doi.org/10.5194/gmd-16-6479-2023)
+- [Future temperature predictions for Chile based on empirical-statistical downscaling](https://doi.org/10.1007/s00382-020-05620-9)
 
 
 <p align="center">
