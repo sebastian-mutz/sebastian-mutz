@@ -1,4 +1,4 @@
-# Hi there and servus 👋
+# Hi there 👋 and servus 🍻
 I'm an [associacte professor](https://www.gla.ac.uk/schools/ges/staff/sebastianmutz/) at the University of Glasgow (Scotland) with research focus on climate and Earth system dynamics, climate change impacts, and the development of methods and tools for research and science communication. My research tools include process-based models (e.g., global climate models), empirical-statistical models, and techniques from AI. I currently serve as manager of [ExaGEO](https://www.exageo.org/) (NERC Doctoral Landscape Award in Exascale Computing for Earth, Environmental, and Sustainability Solutions), on the steering committee of the [ESM-AI forum](https://sages.ac.uk/research/fora/earth-system-modelling-artificial-intelligence-esm-ai/) of SAGES (Scottish Alliance for Geoscience, Environment and Society), on the [EGU OC](https://www.egu.eu/outreach/) (European Geosciences Union Outreach Committee), and as a topical editor for the journals Earth System Dynamics and Geoscience Communication.
 
 # Climate Dynamics Lab 🌀
