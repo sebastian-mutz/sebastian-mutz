@@ -2,7 +2,7 @@
 I'm a computational climatologist ([associate professor](https://www.gla.ac.uk/schools/ges/staff/sebastianmutz/) at the University of Glasgow) using process-based, empirical-statistical, and AI-based models to understand and predict processes and events in the climate system. I currently serve as manager of [ExaGEO](https://www.exageo.org/) (exascale computing for environmental solutions), on the steering committee of the [ESM-AI](https://sages.ac.uk/research/fora/earth-system-modelling-artificial-intelligence-esm-ai/) (Earth System Modelling and Artificial Intelligence) SAGES forum, and on the [EGU-OC](https://www.egu.eu/outreach/) (European Geosciences Union Outreach Committee).
 
 ## Climate Dynamics Lab 🌀
-The [Climate Dynamics Lab](https://mutz.science/) is a small, international network of scientists clustered around specific research topics (see [list of publications](https://mutz.science/res/pub.html)). It keeps an open-door policy to anyone interested in working on these topics (as a researcher, developer or communicator). [Get in touch](mailto:sebastian@mutz.science) if you have questions, comments, or would like to join us!
+The [Climate Dynamics Lab](https://mutz.science/) is a small, international network of scientists clustered around specific research topics (see [list of publications](https://mutz.science/res/pub.html)). We keep an open-door policy to anyone interested in working on these topics (as a researcher, developer or communicator). [Get in touch](mailto:sebastian@mutz.science) if you have questions, comments, or would like to join us!
 
 ## Languages and Tools 🛠
 <p align="left"> 
