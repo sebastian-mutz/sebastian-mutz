@@ -10,9 +10,7 @@ The [Climate Dynamics Lab](https://mutz.science/) is a small, international netw
 <a href="https://fpm.fortran-lang.org/index.html" target="_blank" rel="noreferrer"> <img src="https://fpm.fortran-lang.org/_images/fpm-logo-color.svg" alt="c" width="32" height="32"/> </a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="c" width="32" height="32"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="c" width="32" height="32"/> </a>
-  
-<a href="https://kde.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:KDE_logo.svg" alt="c" width="32" height="32"/> </a>
-
+<a href="https://kde.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:KDE_logo.svg" width="32" height="32"/> </a>
 <a href="https://kate-editor.org" target="_blank" rel="noreferrer"> <img src="https://kate-editor.org/images/kate-source-original.svg" alt="c" width="32" height="32"/> </a>  
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="c" width="32" height="32"/> </a>
 </p>                 
